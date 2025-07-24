@@ -10,6 +10,7 @@ A data analysis and visualization project exploring OCD patient demographics and
 Link - https://www.kaggle.com/datasets/ohinhaque/ocd-patient-dataset-demographics-and-clinical-data/
 
 ---
+**📌 Executive Summary**
 
 The OCD Patient Dataset Analysis, developed using SQL, Power BI, and Excel, reveals meaningful insights into OCD demographics, diagnosis trends, and symptom patterns:
 
