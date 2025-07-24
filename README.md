@@ -1,10 +1,8 @@
 # Health-Care-Analysis
-# OCD Patient Data Analysis Project
 
 ## 📌 Project Overview
 
-This project leverages **SQL**, **Power BI**, and **Excel** to analyze and visualize the **OCD Patient Dataset: Demographics & Clinical Data**.  
-The dataset contains detailed information on **1,500 individuals diagnosed with Obsessive-Compulsive Disorder (OCD)** and aims to provide valuable insights for researchers, clinicians, and mental health professionals.
+A data analysis and visualization project exploring OCD patient demographics and clinical trends using **SQL**, **Excel**, and **Power BI**.
 
 ---
 ## 📊 Dataset Source
@@ -13,6 +11,21 @@ Link - https://www.kaggle.com/datasets/ohinhaque/ocd-patient-dataset-demographic
 
 ---
 
+The OCD Patient Dataset Analysis, developed using SQL, Power BI, and Excel, reveals meaningful insights into OCD demographics, diagnosis trends, and symptom patterns:
+
+Stable Diagnosis Trends: OCD diagnoses have remained steady over time with minor fluctuations, indicating consistent detection and reporting.
+
+Balanced Gender Distribution: The patient population is almost equally split between male and female, showing no major gender disparity.
+
+Diverse Ethnic Representation: The majority of patients are from Caucasian, Asian, and Hispanic backgrounds, with good overall ethnic diversity.
+
+Common Obsession Types: Harm-related, contamination, and religious obsessions are among the most frequently reported.
+
+Frequent Compulsions: Washing, counting, and checking are the most prevalent compulsive behaviors, with washing being the highest.
+
+Clinical Implication: These patterns highlight the need for tailored awareness, prevention, and treatment programs that address the most common symptoms and demographic factors.
+
+---
 ## 📊 Dataset Description
 
 The dataset includes:
