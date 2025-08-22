@@ -72,6 +72,3 @@ The dataset includes:
 ## 📈 Key Insights
 
 This project demonstrates how data-driven analysis and visual dashboards can support clinicians, researchers, and policymakers in understanding OCD more effectively — aiding better diagnosis, treatment planning, and mental health support.
-
-
-
